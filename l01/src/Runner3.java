@@ -14,6 +14,10 @@ public class Runner3 {
         short shortValue = 15;
         long longValue = 1500;
 
+
+
+
+
         System.out.println(byteValue);
 
         longValue = 3000000000l; // l - компелятор примет это значение как LONG
