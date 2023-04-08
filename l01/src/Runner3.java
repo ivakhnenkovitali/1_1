@@ -50,6 +50,9 @@ public class Runner3 {
         System.out.println("doubleValue: " + doubleValue);
         System.out.printf("doubleValue %.2f%n", doubleValue);// %n для перехода на следующу строку
 
+
+
+
         System.out.printf("%d %d %d %d %f %f %c %d %s%n", byteValue, shortValue, intValue, longValue,
                 floatValue, doubleValue, s1, f1, "строка");
     }
