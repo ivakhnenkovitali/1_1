@@ -38,6 +38,8 @@ public class Runner3 {
         double doubleValue = 4.9;
         char s1 = 'g';
 
+
+
         boolean f1 = true;
         //final величины можно проинициализивроть только один раз
         final int SIZE;
