@@ -49,6 +49,8 @@ public class Runner3 {
         //final величины можно проинициализивроть только один раз
         final int SIZE;
         SIZE = 10;
+
+
         //SIZE = 15; ОШИБКА -- НЕЛЬЗЯ переприсвоить final величину
         System.out.println("Переменная int: " + intValue);
         doubleValue = (double) 10 / 3;  //выделяется целая часть от деления
