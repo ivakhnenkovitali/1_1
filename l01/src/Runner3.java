@@ -36,6 +36,8 @@ public class Runner3 {
 
 
         byteValue = (byte) (b1 + b2);
+
+
         longValue = intValue + longValue;
 
         float floatValue = 3.6f;     // f - кампилятор примет это значение как float
