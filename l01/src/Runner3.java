@@ -46,6 +46,8 @@ public class Runner3 {
         float floatValue = 3.6f;     // f - кампилятор примет это значение как float
 
         double doubleValue = 4.9;
+
+
         char s1 = 'g';
 
 
